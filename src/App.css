@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius:10px;
+  padding: 50px;
+  width: 150px;
+  height: 200px;
+  margin: 20px;
+}
+
+h2{
+  font-weight:bold;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+ 
+}
+
