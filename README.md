@@ -1,4 +1,4 @@
-# Affiche de films
+# Affiches de films
 
 Ce mini projet a été réalisé dans le cadre d'un test technique en ReactJS. C'est grâce à ce test que j'ai pu découvrir le framework ReactJs et commencer à l'apprendre.
 Le but de ce test était :
